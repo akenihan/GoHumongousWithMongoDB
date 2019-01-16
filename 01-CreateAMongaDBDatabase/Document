@@ -1,0 +1,12 @@
+{
+    "_id": {
+        "$oid": "5c3e620ce7179a7d1245f891"
+    },
+    "first": "kate",
+    "last": "bush",
+    "dob": "30/07/1958",
+    "gender": "f",
+    "hair_colour": "brown",
+    "occupation": "singer",
+    "nationality": "english"
+}
